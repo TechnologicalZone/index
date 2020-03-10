@@ -1,0 +1,20 @@
+body {
+
+}
+#titulo {
+    background: black;
+    color: aqua;
+    text-align: center;
+    font-variant: small-caps;
+    padding: none;
+    margin: none;
+    text-decoration: underline;
+}
+a {
+    text-align: center;
+    padding: 40;
+    color: white;
+    background: black;
+    font-size: 96%;
+    font-variant: small-caps;
+}
