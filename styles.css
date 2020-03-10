@@ -9,13 +9,13 @@ body {
     padding: none;
     margin: none;
     text-decoration: underline;
-    font-size: 25px;
+    font-size: 80px;
 }
 a {
     text-align: center;
     padding: 40;
     color: white;
     background: black;
-    font-size: 30px;
+    font-size: 50px;
     font-variant: small-caps;
 }
