@@ -1,21 +1,44 @@
 body {
-
+    background: ;
 }
 #titulo {
-    background: gray;
+    background: black;
     color: aqua;
+    width: auto;
+    height: auto;
     text-align: center;
     font-variant: small-caps;
-    padding: 80px;
-    margin: none;
+    padding: 40px;
+    padding: auto;
+    margin: auto;
     text-decoration: underline;
     font-size: 80px;
 }
 a {
     text-align: center;
-    padding: 4px;
+    padding: 10px;
+    width: auto;
+    height: auto;
     color: white;
     background: black;
     font-variant: small-caps;
-    font-size: 50px;
+    font-size: 25px;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    display: inline-block;
+}
+li {
+    display: inline-block;
+    padding: 10px;
+}
+ul {
+    list-style: none;
+    background: black;
+    text-align: center;
+    padding: o;
+    margin: o;
+}
+a:hover {
+    background: blue;
 }
