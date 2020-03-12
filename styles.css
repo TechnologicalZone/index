@@ -6,14 +6,14 @@ body {
     color: aqua;
     text-align: center;
     font-variant: small-caps;
-    padding: none;
+    padding: 84px;
     margin: none;
     text-decoration: underline;
     font-size: 80px;
 }
 a {
     text-align: center;
-    padding: 40;
+    padding: 4px;
     color: white;
     background: black;
     font-size: 50px;
