@@ -2,11 +2,11 @@ body {
 
 }
 #titulo {
-    background: black;
+    background: gray;
     color: aqua;
     text-align: center;
     font-variant: small-caps;
-    padding: 84px;
+    padding: 80px;
     margin: none;
     text-decoration: underline;
     font-size: 80px;
@@ -17,5 +17,4 @@ a {
     color: white;
     background: black;
     font-size: 50px;
-    font-variant: small-caps;
 }
