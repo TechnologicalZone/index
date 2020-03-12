@@ -1,5 +1,5 @@
 body {
-    background: ;
+    background: darkslategray;
 }
 #titulo {
     background: black;
@@ -22,7 +22,7 @@ a {
     color: white;
     background: black;
     font-variant: small-caps;
-    font-size: 25px;
+    font-size: 40px;
     margin: auto;
     padding: auto;
     text-align: center;
