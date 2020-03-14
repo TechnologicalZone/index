@@ -9,7 +9,6 @@ body {
     text-align: center;
     font-variant: small-caps;
     padding: 40px;
-    padding: auto;
     margin: auto;
     text-decoration: underline;
     font-size: 80px;
@@ -24,8 +23,6 @@ a {
     font-variant: small-caps;
     font-size: 30px;
     margin: auto;
-    padding: auto;
-    text-align: center;
     display: inline-block;
 }
 li {
@@ -36,8 +33,6 @@ ul {
     list-style: none;
     background: black;
     text-align: center;
-    padding: o;
-    margin: o;
 }
 a:hover {
     background: blue;
